@@ -2,5 +2,5 @@ version: STSv1
 mode: testing
 mx: mail.delta-sport.ru
 mx: mail.delta-sport.msk.ru
-ms: mail.dscgroup.msk.ru
+mx: mail.dscgroup.msk.ru
 max_age: 1209600
